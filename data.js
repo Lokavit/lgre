@@ -1,13 +1,3 @@
-/** 
-FileName: data.js
-Birthtime: 2024/11/28 18:40:55
-Mtime: 2024/11/28 18:53:58
------
-Copyright © 1911 - 2024 UserName
-    卍 · 小僧過境　衆生甦醒 · 卍
-=====<< 卍 · Description · 卍 >>=====
-*/
-
 export const enUS = {
   code: "en-US", // 美
   lang: "English",
